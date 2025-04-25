@@ -1,0 +1,14 @@
+{
+  "config" : {
+    "vcenter" : {
+      "appliance" : {
+        "access_settings" : {
+          "ssh" : {
+            "enabled" : true
+          }
+        },
+        "backup_schedules" : [ ]
+      }
+    }
+  }
+}

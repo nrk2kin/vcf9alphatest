@@ -1,0 +1,35 @@
+{
+  "selectedConfig" : {
+    "config" : {
+      "vcenter" : {
+        "appliance" : {
+          "access_settings" : {
+            "ssh" : {
+              "enabled" : false
+            }
+          },
+          "backup_schedules" : [ {
+            "parts" : [ "string" ],
+            "enable" : false,
+            "location" : "string",
+            "schedule_id" : "string",
+            "location_user" : "string",
+            "retention_info" : {
+              "max_count" : 0
+            },
+            "backup_password" : "string",
+            "recurrence_info" : {
+              "days" : [ "MONDAY" ],
+              "hour" : 0,
+              "minute" : 0
+            },
+            "location_password" : "string"
+          } ]
+        }
+      }
+    }
+  },
+  "description" : "",
+  "sourceResourceId" : "888d470c-549e-46b5-8b97-ef93c57fa0e4",
+  "configVersion" : "9.0.0.24678707"
+}

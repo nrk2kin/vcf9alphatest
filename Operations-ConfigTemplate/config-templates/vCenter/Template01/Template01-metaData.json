@@ -1,0 +1,35 @@
+{
+  "selectedConfig" : {
+    "config" : {
+      "vcenter" : {
+        "appliance" : {
+          "access_settings" : {
+            "ssh" : {
+              "enabled" : false
+            }
+          },
+          "datetime_config" : {
+            "ntp" : {
+              "servers" : [ "string" ]
+            },
+            "time_sync" : {
+              "mode" : "DISABLED"
+            },
+            "time_zone" : {
+              "name" : "string"
+            }
+          }
+        },
+        "inventory" : {
+          "folders" : [ {
+            "path" : "string",
+            "type" : "DATACENTER"
+          } ]
+        }
+      }
+    }
+  },
+  "description" : "",
+  "sourceResourceId" : "888d470c-549e-46b5-8b97-ef93c57fa0e4",
+  "configVersion" : "9.0.0.24678707"
+}

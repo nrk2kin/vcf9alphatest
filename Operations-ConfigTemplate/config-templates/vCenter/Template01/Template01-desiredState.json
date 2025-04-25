@@ -1,0 +1,27 @@
+{
+  "config" : {
+    "vcenter" : {
+      "appliance" : {
+        "access_settings" : {
+          "ssh" : {
+            "enabled" : true
+          }
+        },
+        "datetime_config" : {
+          "ntp" : {
+            "servers" : [ "ntp1.sfo.rainpole.io", "ntp0.sfo.rainpole.io" ]
+          },
+          "time_sync" : {
+            "mode" : "NTP"
+          },
+          "time_zone" : {
+            "name" : "UTC"
+          }
+        }
+      },
+      "inventory" : {
+        "folders" : [ ]
+      }
+    }
+  }
+}

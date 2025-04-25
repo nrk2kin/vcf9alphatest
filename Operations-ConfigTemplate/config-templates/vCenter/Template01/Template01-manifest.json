@@ -1,0 +1,7 @@
+{
+  "contentName": "Template01",
+  "id": "c6e639e0-33ee-400e-bd25-b52a66d364aa",
+  "contentType": "Operations-ConfigTemplate",
+  "keyValues": {"location": "vCenter%2FTemplate01"},
+  "descendents": []
+}

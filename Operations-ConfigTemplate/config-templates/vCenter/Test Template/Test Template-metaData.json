@@ -1,0 +1,21 @@
+{
+  "selectedConfig" : {
+    "config" : {
+      "vcenter" : {
+        "appliance" : {
+          "access_settings" : {
+            "ssh" : {
+              "enabled" : false
+            },
+            "dcui" : {
+              "enabled" : false
+            }
+          }
+        }
+      }
+    }
+  },
+  "description" : "",
+  "sourceResourceId" : "7c4e95e8-df56-40be-88f2-2bdd775fc67d",
+  "configVersion" : "9.0.0.24678707"
+}

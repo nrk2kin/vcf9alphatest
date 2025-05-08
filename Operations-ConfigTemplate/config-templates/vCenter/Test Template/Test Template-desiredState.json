@@ -1,0 +1,16 @@
+{
+  "config" : {
+    "vcenter" : {
+      "appliance" : {
+        "access_settings" : {
+          "ssh" : {
+            "enabled" : true
+          },
+          "dcui" : {
+            "enabled" : true
+          }
+        }
+      }
+    }
+  }
+}

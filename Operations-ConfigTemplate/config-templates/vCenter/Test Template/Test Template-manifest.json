@@ -1,0 +1,7 @@
+{
+  "contentName": "Test Template",
+  "id": "bb3c2dae-3558-4cf9-8734-73a8c09d49f9",
+  "contentType": "Operations-ConfigTemplate",
+  "keyValues": {"location": "vCenter%2FTest Template"},
+  "descendents": []
+}
